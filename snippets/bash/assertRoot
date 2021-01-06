@@ -1,0 +1,6 @@
+ROOT_UID=0 
+E_NOT_ROOT=99
+[ $UID = $ROOT_UID ] || {
+    echo "Permision denied. Try 'sudo $0'"
+    exit E_NOT_ROOT
+}

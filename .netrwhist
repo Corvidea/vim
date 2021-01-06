@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/axel/code/perl/learning_perl/1.intro'
+let g:netrw_dirhist_2='/home/axel/code/perl/learning_perl'
+let g:netrw_dirhist_1='/home/axel/code/perl/basic_english'
+let g:netrw_dirhist_0='/home/axel/esp8266_deauther-2.5.0-rc2/esp8266_deauther'
+let g:netrw_dirhist_9='/home/axel/code/perl/learning_perl/8.matching-with-regex'
+let g:netrw_dirhist_8='/home/axel/code/perl/learning_perl/9.manipulating-text'
+let g:netrw_dirhist_7='/home/axel/code/perl/learning_perl/4.subroutines'
+let g:netrw_dirhist_6='/home/axel/.config/i3'
+let g:netrw_dirhist_5='/home/axel/.config'
+let g:netrw_dirhist_4='/home/axel/Downloads/esp8266_deauther-2.5.0-rc2/esp8266_deauther'

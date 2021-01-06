@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/axel/CODE/RUST/hello_world/projects'
+let g:netrw_dirhist_2='/home/axel/CODE/RUST/hello_world/projects/adder'
+let g:netrw_dirhist_3='/home/axel/CODE/RUST/hello_world/projects/adder/src'
+let g:netrw_dirhist_4='/home/axel/code/rust/the_book/projects/delete_me/src'
